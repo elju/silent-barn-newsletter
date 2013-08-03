@@ -109,6 +109,10 @@ body > header h1 {
 
 body > header a {
   color: rgb(41, 229, 94);
+  text-shadow: -1px -1px 0 #333,  
+    1px -1px 0 #333,
+    -1px 1px 0 #333,
+     1px 1px 0 #333;
 }
 
 body > header h1 a:hover {
